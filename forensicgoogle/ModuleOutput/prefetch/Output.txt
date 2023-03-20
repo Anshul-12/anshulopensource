@@ -1,0 +1,2 @@
+Prefetch Directory is  C:\Users\Anshul\AppData\Local\Temp\Autopsy\forensicgoogle_20230320_203141\Temp\RecentActivity\1-Autopsy_PF_DB.db3_0
+DB file is  D:\int301\forensicgoogle\ModuleOutput\prefetch\1-Autopsy_PF_DB.db3
