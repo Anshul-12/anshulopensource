@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<AutopsyCase>
+  <SchemaVersion>5.0</SchemaVersion>
+  <CreatedDate>2023/03/20 20:47:08 (IST)</CreatedDate>
+  <ModifiedDate>2023/03/20 20:47:12 (IST)</ModifiedDate>
+  <CreatedByAutopsyVersion>4.20.0</CreatedByAutopsyVersion>
+  <SavedByAutopsyVersion>4.20.0</SavedByAutopsyVersion>
+  <Case>
+    <Name>3_20230320_204708</Name>
+    <DisplayName>3</DisplayName>
+    <Number>3</Number>
+    <Examiner>Anshul</Examiner>
+    <ExaminerPhone>8727988605</ExaminerPhone>
+    <ExaminerEmail>dadwalanshul1@gmail.com</ExaminerEmail>
+    <CaseNotes/>
+    <CaseType>Single-user case</CaseType>
+    <Database/>
+    <CaseDatabase>autopsy.db</CaseDatabase>
+    <TextIndex/>
+  </Case>
+  <OriginalCase/>
+</AutopsyCase>
